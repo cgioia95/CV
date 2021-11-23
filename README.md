@@ -1,3 +1,3 @@
 # CV
 
-Basic CV website to learn HTML
+Basic CV website to learn HTML.
